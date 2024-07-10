@@ -11,7 +11,7 @@ const Home = () => {
       <Navbar />
       <div className="home-banner-container">
         <div className="home-text-section">
-          <h1 className="primary-heading">Welcome to official Account of Student Council NIT Patna</h1>
+          <h1 className="primary-heading">Welcome to official Account of Student Council </h1>
           <p className="primary-text">
             Ignite Your Senses: Prepare for a New Era of voting with the
             Futuristic Tech
